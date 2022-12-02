@@ -12,6 +12,8 @@ public class HomePageObjects {
 	}
 	
 	By signInButton = By.linkText("Sign In");
+	By signInButton2 = By.linkText("Sign In");
+	By signInButton3 = By.linkText("Sign In");
 
 	
 	public void clickOnSignInButton() {
